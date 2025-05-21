@@ -1,0 +1,35 @@
+# Dashboard Satisfaction Client - Streamlit
+
+Ce projet est un tableau de bord interactif développé avec **Streamlit** pour visualiser les données de satisfaction client collectées par l'entreprise.
+
+## 🎯 Objectifs
+
+- Automatiser le traitement des données collectées manuellement (Excel)
+- Proposer un suivi visuel de la satisfaction client
+- Mesurer la performance du personnel (NPS, temps de traitement, consentement, etc.)
+- Analyser les résultats d'enquêtes mystères
+
+## 📊 Fonctionnalités
+
+- Moyenne des notes par question
+- Visualisation du **Net Promoter Score (NPS)**
+- Répartition des types de clients : Promoteurs, Neutres, Détracteurs
+- Taux de consentement et de rappel
+- **Nuage de mots** des retours clients
+- Filtrage dynamique par site
+
+## 🛠️ Technologies
+
+- Python
+- Streamlit
+- Pandas
+- Matplotlib / Seaborn
+- Wordcloud
+- PowerBI (version sans IA)
+
+## ▶️ Lancer l'application localement
+
+1. Clone le dépôt :
+   ```bash
+   git clone https://github.com/tonpseudo/nom-du-repo.git
+   cd nom-du-repo
